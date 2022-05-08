@@ -11,7 +11,9 @@
 | 19/04| Definições: Algoritmo; Dados; Variáveis; Constantes; Tipos e declaração de dados; lógico, inteiro, real e caractere | [Representação numérica em computadores](aula-04.ipynb) |
 | 26/04| Introdução a lógica: Operadores e expressões lógicas; Operadores e expressões aritméticas; Descrição e uso do comando: se-então-senão. | [Introdução a Lógica Formal com exemplos em Python](aula-05-1.ipynb) |
 | 02/05| Introdução a lógica: Operadores e expressões lógicas; Operadores e expressões aritméticas; Descrição e uso do comando: se-então-senão. | [Operadores e Expressões relacionais e lógicas](aula-05-2.ipynb) |
-| 03/05| Introdução a lógica: Operadores e expressões lógicas; Operadores e expressões aritméticas; Descrição e uso do comando: se-então-senão. | [Estruturas de controle condicional](aula-06.ipynb) |
+| 03/05| Introdução a lógica: Operadores e expressões lógicas; Operadores e expressões aritméticas; Descrição e uso do comando: se-então-senão. | [Fazer exercícios 1, 2 e 8 da Lista 1](lista-01.ipynb) |
+| 09/05| Introdução a lógica: Operadores e expressões lógicas; Operadores e expressões aritméticas; Descrição e uso do comando: se-então-senão. | [Estruturas de controle condicional](aula-06.ipynb) |
+| 10/05| Introdução a lógica: Operadores e expressões lógicas; Operadores e expressões aritméticas; Descrição e uso do comando: se-então-senão. | [Exercícios de fixação e revisão](revisao-if.ipynb) |
 
 ## Listas de Exercícios
 
