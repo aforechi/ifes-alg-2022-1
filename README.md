@@ -14,9 +14,12 @@
 | 03/05| Introdução a lógica: Operadores e expressões lógicas; Operadores e expressões aritméticas; Descrição e uso do comando: se-então-senão. | [Fazer exercícios 1, 2 e 8 da Lista 1](lista-01.ipynb) |
 | 09/05| Introdução a lógica: Operadores e expressões lógicas; Operadores e expressões aritméticas; Descrição e uso do comando: se-então-senão. | [Estruturas de controle condicional](aula-06.ipynb) |
 | 10/05| Introdução a lógica: Operadores e expressões lógicas; Operadores e expressões aritméticas; Descrição e uso do comando: se-então-senão. | [Exercícios de fixação e revisão](revisao-if.ipynb) |
+| 16/05| Estruturas de repetição: Descrição e uso do comando enquanto-faça; Descrição e uso do comando faça-enquanto; Descrição e uso do comando para. | [Estruturas de controle de repetição](aula-07.ipynb) |
+| 23/05| Estruturas de repetição: Descrição e uso do comando enquanto-faça; Descrição e uso do comando faça-enquanto; Descrição e uso do comando para. | [Exercícios de fixação e revisão](revisao-loop.ipynb) |
 
 ## Listas de Exercícios
 
 | Listas |
 | ---    |
 | [Lista 1](lista-01.ipynb) |
+| [Lista 2](lista-02.ipynb) |
