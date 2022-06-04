@@ -17,8 +17,8 @@
 | 16/05| Estruturas de repetição: Descrição e uso do comando enquanto-faça; Descrição e uso do comando faça-enquanto; Descrição e uso do comando para. | [Estruturas de controle de repetição](aula-07.ipynb) |
 | 23/05| Estruturas de repetição: Descrição e uso do comando enquanto-faça; Descrição e uso do comando faça-enquanto; Descrição e uso do comando para. | [Exercícios de fixação e revisão](revisao-loop.ipynb) |
 | 24/05| Estruturas de repetição: Descrição e uso do comando enquanto-faça; Descrição e uso do comando faça-enquanto; Descrição e uso do comando para. | [Exercícios de fixação e revisão](lista-02.ipynb) |
-| 07/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Funções e Recursão](aula-09.ipynb) |
-| 13/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Projeto de funções](aula-09.1.ipynb)  |
+| 07/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Funções e Recursão](aula-08.ipynb) |
+| 13/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Projeto de funções](aula-09.ipynb)  |
 | 14/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Exercícios de revisão](lista-03.ipynb) |
 
 ## Listas de Exercícios
