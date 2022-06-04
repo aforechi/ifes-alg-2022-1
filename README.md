@@ -16,6 +16,10 @@
 | 10/05| Introdução a lógica: Operadores e expressões lógicas; Operadores e expressões aritméticas; Descrição e uso do comando: se-então-senão. | [Exercícios de fixação e revisão](revisao-if.ipynb) |
 | 16/05| Estruturas de repetição: Descrição e uso do comando enquanto-faça; Descrição e uso do comando faça-enquanto; Descrição e uso do comando para. | [Estruturas de controle de repetição](aula-07.ipynb) |
 | 23/05| Estruturas de repetição: Descrição e uso do comando enquanto-faça; Descrição e uso do comando faça-enquanto; Descrição e uso do comando para. | [Exercícios de fixação e revisão](revisao-loop.ipynb) |
+| 24/05| Estruturas de repetição: Descrição e uso do comando enquanto-faça; Descrição e uso do comando faça-enquanto; Descrição e uso do comando para. | [Exercícios de fixação e revisão](lista-02.ipynb) |
+| 07/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Funções e Recursão](aula-09.ipynb) |
+| 13/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Projeto de funções](aula-09.1.ipynb)  |
+| 14/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Exercícios de revisão](lista-03.ipynb) |
 
 ## Listas de Exercícios
 
@@ -23,3 +27,4 @@
 | ---    |
 | [Lista 1](lista-01.ipynb) |
 | [Lista 2](lista-02.ipynb) |
+| [Lista 3](lista-03.ipynb) |
