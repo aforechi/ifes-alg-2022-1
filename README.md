@@ -20,6 +20,8 @@
 | 07/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Funções e Recursão](aula-08.ipynb) |
 | 13/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Projeto de funções](aula-09.ipynb)  |
 | 14/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Exercícios de revisão](lista-03.ipynb) |
+| 20/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Bibliotecas de funções](aula-10.ipynb)  |
+
 
 ## Listas de Exercícios
 
