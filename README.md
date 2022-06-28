@@ -21,7 +21,9 @@
 | 13/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Projeto de funções](aula-09.ipynb)  |
 | 14/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Exercícios de revisão](lista-03.ipynb) |
 | 20/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Bibliotecas de funções](aula-10.ipynb)  |
-
+| 28/06| Estruturas de dados homogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Strings](https://penseallen.github.io/PensePython2e/08-strings.html) |
+| 28/06| Estruturas de dados homogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Listas](https://penseallen.github.io/PensePython2e/10-listas.html) |
+| 28/06| Estruturas de dados homogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Matrizes](aula-11.ipynb) |
 
 ## Listas de Exercícios
 
