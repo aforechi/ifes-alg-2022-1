@@ -26,6 +26,8 @@
 | 11/07| Estruturas de dados homogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Matrizes](aula-11.ipynb) |
 | 18/07| Estruturas de dados heterogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Dicionários](https://penseallen.github.io/PensePython2e/11-dicionarios.html) |
 | 19/07| Estruturas de dados heterogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Tuplas](https://penseallen.github.io/PensePython2e/12-tuplas.html) |
+| 25/07| Estruturas de dados heterogêneas: Definição, declaração e manipulação de arquivos. | [Arquivos](aula-12.ipynb) |
+| 26/07| Estruturas de dados heterogêneas: Definição, declaração e manipulação de arquivos. | [Lista 5](lista-05.ipynb) |
 
 ## Listas de Exercícios
 
