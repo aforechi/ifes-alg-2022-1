@@ -21,11 +21,11 @@
 | 13/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Projeto de funções](aula-09.ipynb)  |
 | 14/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Exercícios de revisão](lista-03.ipynb) |
 | 20/06| Modularização: Declaração, estruturação e chamada de funções: Declaração; passagem de parâmetro; Retorno de valores. | [Bibliotecas de funções](aula-10.ipynb)  |
-| 28/06| Estruturas de dados homogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Strings](https://penseallen.github.io/PensePython2e/08-strings.html) |
-| 05/07| Estruturas de dados homogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Listas](https://penseallen.github.io/PensePython2e/10-listas.html) |
+| 28/06| Estruturas de dados homogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Strings](08-strings.html) |
+| 05/07| Estruturas de dados homogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Listas](10-listas.html) |
 | 11/07| Estruturas de dados homogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Matrizes](aula-11.ipynb) |
-| 18/07| Estruturas de dados heterogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Dicionários](https://penseallen.github.io/PensePython2e/11-dicionarios.html) |
-| 19/07| Estruturas de dados heterogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Tuplas](https://penseallen.github.io/PensePython2e/12-tuplas.html) |
+| 18/07| Estruturas de dados heterogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Dicionários](11-dicionarios.html) |
+| 19/07| Estruturas de dados heterogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Tuplas](12-tuplas.html) |
 | 25/07| Estruturas de dados heterogêneas: Definição, declaração e manipulação de arquivos. | [Arquivos](aula-12.ipynb) |
 | 26/07| Estruturas de dados heterogêneas: Definição, declaração e manipulação de arquivos. | [Lista 5](lista-05.ipynb) |
 | 01/08| Estruturas de dados homogêneas: Definição, declaração, preenchimento e leitura de vetores; Definição, declaração, preenchimento de matrizes. | [Jogo da Velha](jogo-da-velha.ipynb) |
